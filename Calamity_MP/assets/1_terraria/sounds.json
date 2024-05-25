@@ -1,0 +1,21 @@
+{
+    "music.hive_mind": {"sounds":[
+             {"name": "1_terraria:music/thefilthymind","pitch": 1.0,"weight": 1,"volume": 0.5} 
+         ]
+    },
+    "music.desert_scourge": {
+        "sounds":[
+            {"name": "1_terraria:music/guardianoftheformerseas","pitch": 1.0,"weight": 1,"volume": 0.5} 
+        ]
+   },
+    "music.eye_of_cthulhu": {
+        "sounds":[
+            {"name": "1_terraria:music/seerofthenight","pitch": 1.0,"weight": 1,"volume": 0.5}
+        ]
+   },
+    "music.king_slime": {
+        "sounds":[
+            {"name": "1_terraria:music/gelatinousdynasty","pitch": 1.0,"weight": 1,"volume": 0.5}
+        ]
+   }
+}
